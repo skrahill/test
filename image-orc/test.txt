@@ -1,1 +1,3 @@
 
+https://layout-parser.readthedocs.io/_/downloads/en/latest/pdf/
+https://layout-parser.readthedocs.io/en/latest/api_doc/ocr.html
